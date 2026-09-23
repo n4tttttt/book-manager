@@ -2,7 +2,7 @@ import '@ant-design/v5-patch-for-react-19';
 import React, { useState, useEffect } from 'react';
 import { Button, Card, Col, Row, Modal, Form, Input, InputNumber, Popconfirm, message, Typography, Layout, ConfigProvider, theme} from 'antd';
 import { PlusOutlined, EditOutlined, DeleteOutlined, SunFilled, MoonFilled, EyeOutlined } from '@ant-design/icons';
-import Placeholder from './placeholder.png'
+import Placeholder from './Placeholder.png'
 import axios from 'axios';
 const {Title, Paragraph} = Typography
 const {Header} = Layout
